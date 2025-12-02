@@ -1,0 +1,5 @@
+{
+  "name": "Minimax Script voicer",
+  "description": "An application to upload script CSVs and generate voiceovers using Minimax speech-2.6-turbo.",
+  "requestFramePermissions": []
+}
